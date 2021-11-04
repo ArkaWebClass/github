@@ -10,3 +10,4 @@
 - Template Readme Project 2 [[here](https://github.com/scottydocs/README-template.md/blob/master/README.md)]
 - Template Readme Project 3 [[here](https://github.com/othneildrew/Best-README-Template)]
 - Template Readme Project 4 [[here](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)]
+- Rollback Commit [[here](https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit)]
